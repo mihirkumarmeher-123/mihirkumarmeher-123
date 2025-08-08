@@ -30,8 +30,8 @@
 <a href="https://www.hackerrank.com/profile/hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hackerank" height="30" width="40" /></a>
 
 <h3> My Whole Competitive Programming and DSA Journey</h3>
-- CodeChef : Problems (Data Structures and Algorithms)<br>
-- Leetcode  :(Data Structures and Algorithms)
+- GFG : 50+ Problems (Data Structures and Algorithms)<br>
+- Leetcode : 150+ (Data Structures and Algorithms)
  <br>
 
 
