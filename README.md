@@ -5,16 +5,16 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&color=000000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansul+Jain;A+Passionate+problem+Solver👨‍💻+;Coding+enthusiast+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&color=000000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mihir+meher;A+Passionate+problem+Solver👨‍💻+;Coding+enthusiast+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansuljain789&label=Profile%20views&color=0e75b6&style=flat" alt="mihirkumarmeher-123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirkumarmeher-123&label=Profile%20views&color=0e75b6&style=flat" alt="mihirkumarmeher-123" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
  💫About Me
 - 🌱 I’m currently learning *Full stack development(Java Stack)* and Building extensive Project *Full stack development(JavaScript:Node_JS)*
 
-- 💬 Ask me about *Hi, I'm, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (3rd year) from Biju pattnaaik university of technology and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .*
+- 💬 Ask me about *Hi, I'm, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (4th year) from Biju pattnaaik university of technology and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .*
 
 - 📫 How to reach me *mihirmeher22@gmail.com*
 
