@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&color=000000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mihir+Meher;A+Passionate+Problem+Solver+%F0%9F%91%A9%F0%9F%92%BB;Coding+Enthusiast;Excited+to+Solve+Real-World+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&color=000000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mihir+Kumar+Meher;A+Passionate+Problem+Solver+%F0%9F%91%A9%F0%9F%92%BB;Coding+Enthusiast;Excited+to+Solve+Real-World+Problems)](https://git.io/typing-svg)
 
 </div>
 
